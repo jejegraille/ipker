@@ -50,3 +50,9 @@ module GAME {
         }
 }
 ```
+
+# Compiled executable version
+You can use Ipker without node and npm by downloading an executable version (https://devrocket.itch.io/ipker)
+
+# Donation and thanks
+https://devrocket.itch.io/ipker
